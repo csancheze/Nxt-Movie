@@ -15,7 +15,12 @@
   <header class="navbar">
     <h1 class="is-size-1" >NXT MOVIE</h1>
   </header>
-  <main class="section columns">
+  <main class="section columns" style="display: flex; flex-direction: column; align-items: center;">
+
+    <div class="box" style="color: #ECB365; font-size: larger;">
+      Search your movie to watch it on your favorite streaming service.
+    </div>
+
     <div class="column is-three-quarters">
       <div class="box">
         <form class="field has-addons">
@@ -24,10 +29,10 @@
       </form>
       </div>
     </div>
-    <aside class="column">
+    <aside class="column" style="display:block; width: 75%">
       <div class="box">
         <p>Watchlist</p>
-        <ul id="watch-list"></ul>
+        <ul id="watch-list" style="display: flex;justify-content: space-around ;flex-wrap: wrap;"></ul>
       </div>
     </aside>
   </main>

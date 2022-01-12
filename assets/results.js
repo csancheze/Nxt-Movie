@@ -9,7 +9,7 @@ function renderTodos() {
     for (var i = 0 ; i < movielist.length; i++) {
 
     var li = document.createElement("li");
-    li.setAttribute("style","display:flex; justify-content: flex-start; align-items:center; background: #04293A; position: relative; padding: 0; margin-top: 10px;");
+    li.setAttribute("style","display:flex; justify-content: flex-start; align-items:center; background: #04293A; position: relative; padding: 5px 15px; margin-top: 10px;");
     li.classList = "box";
 
     var pos = document.createElement("img");
