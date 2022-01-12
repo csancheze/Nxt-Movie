@@ -27,9 +27,9 @@ Finally, a working application was debugged, checked and finally deployed.
 
 ![Screenshot of the webpage showing it working as expected](./assets/images/screenshot.png)
 
- [Final Product:Github repository](https://github.com/isaacgalvan10/nxt-movie)
+ [Final Product:Github repository](https://github.com/csancheze/Nxt-Movie-project/)
 
- [Final Product:Nxt movie](https://isaacgalvan10.github.io/nxt-movie/)
+ [Final Product:Nxt movie](https://csancheze.github.io/Nxt-Movie-project/)
 
 [Document Presentation](https://onedrive.live.com/view.aspx?resid=124BCA53E6F59F19!82298&ithint=file%2cpptx&authkey=!AHVscf0fYc7J3lQ)
 
