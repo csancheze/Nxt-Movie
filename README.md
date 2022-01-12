@@ -1,6 +1,7 @@
 # NXT-movie
 
-by Cesar San, [Isaac Galvan](https://github.com/isaacgalvan10) and [Ernest1589](https://github.com/ernest1589)
+by Cesar San, [Isaac Galvan](https://github.com/isaacgalvan10) and [Ernest1589](https://github.com/ernest1589).
+
 Contact me by Email: cesanchezesc@gmail.com
 
 List of Technologies:
