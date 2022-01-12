@@ -4,6 +4,7 @@ by Cesar San, [Isaac Galvan](https://github.com/isaacgalvan10) and [Ernest1589](
 Contact me by Email: cesanchezesc@gmail.com
 
 List of Technologies
+Mark up: 
 -HTML
 -CSS
 -SCSS
