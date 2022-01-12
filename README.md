@@ -3,14 +3,20 @@
 by Cesar San, [Isaac Galvan](https://github.com/isaacgalvan10) and [Ernest1589](https://github.com/ernest1589)
 Contact me by Email: cesanchezesc@gmail.com
 
-List of Technologies
- Markup : 
--HTML
--CSS
--SCSS
--Bulma
--Javascript
--APIs
+List of Technologies:
+
+-HTML.
+
+-CSS.
+
+-SCSS.
+
+-Bulma.
+
+-Javascript.
+
+-APIs.
+
 
 NXT movie is an app to look for a movie and get the streaming services you can use to watch it.
 
