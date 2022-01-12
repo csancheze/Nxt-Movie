@@ -48,6 +48,8 @@ Finally, a working application was debugged, checked and finally deployed.
 
 ![Screenshot of the webpage showing it working as expected](./assets/images/screenshot.png)
 
+![Screenshot of the webpage showing it working as expected](./assets/images/screenshot2.png)
+
  [Final Product:Github repository](https://github.com/csancheze/Nxt-Movie-project/)
 
  [Final Product:Nxt movie](https://csancheze.github.io/Nxt-Movie-project/)
