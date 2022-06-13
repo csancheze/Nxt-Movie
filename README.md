@@ -50,7 +50,7 @@ Download the repository and add any functionality that would improve the user ex
   ## Tests
   
   
-Follow this link
+Follow this [link](https://csancheze.github.io/Nxt-Movie/)
 
   
   ## Questions
