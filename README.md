@@ -1,65 +1,67 @@
-# NXT-movie
+# NXT-movie ![MIT](https://img.shields.io/apm/l/vim-mode?style=plastic)
 
-by Cesar San, [Isaac Galvan](https://github.com/isaacgalvan10) and [Ernest1589](https://github.com/ernest1589).
-
-Contact me by Email: cesanchezesc@gmail.com
-
-List of Technologies:
-
--HTML.
-
--CSS.
-
--SCSS.
-
--Bulma.
-
--Javascript.
-
--APIs.
-
-
+  ## Description
+  
+  
 NXT movie is an app to look for a movie and get the streaming services you can use to watch it.
 
-This is a team project that required the use of all the technologies and skills that have been adquired so far.
+  
+  ## Table of Contents
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#license)
+  - [Tests](#license)
+  - [Questions](#license)
+  
+  ## Installation
+  
+  
+Download the repository and open. or follow the link below.
 
-The requirement were:
+  
+  ## Usage
+  
+  
+Follow the installation instructions above.
 
--Use a CSS framework other than Bootstrap.
--Be deployed to GitHub Pages.
--Be interactive.
--Use at least two server-side APIs.
--Use modals from interactions
--Use client-side storage to store persistent data.
--Be responsive.
--Have a polished UI.
--Have a clean repository.
--Have a quality README.
+  
+  
+![NXT-movie webpage working as expected](assets/images/screenshot.png)
+  
+  ## License
+  
+  
+Copyright (c) 2022, Cesar San All rights reserved.
+Licensed under the MIT license. 
 
-After deciding what type of application and APIs were going to be used, the tasks were assigned and the development started. 
+  
+  
+[License](./MIT_license.txt)
 
-The application was designed to help users search for a movie, see the trailer, see on what streaming platform that movie is available on, and can create a watchlist of movies the user would like to watch next. 
+  
+  ## How to Contribute
+  
+  
+Download the repository and add any functionality that would improve the user experience.
 
-It was made using Bulma as a CSS Framework, HTML, CSS and Javascript. Two APIs were used, one for searching for movies and the other to get streaming information. 
+  
+  ## Tests
+  
+  
+Follow this link
 
-The main challenges as working as a team were related to the use of Github and some difficulties with the assignment of tasks.
+  
+  ## Questions
+  
+  If you have any question feel free to check my Github 
+  
+Username:csancheze
+  
+[Github](https://github.com/csancheze)
 
-Finally, a working application was debugged, checked and finally deployed.
+  or send me and email
+  
+<cesanchezesc@gmail.com>
 
-![Screenshot of the webpage showing it working as expected](./assets/images/screenshot.png)
-
-![Screenshot of the webpage showing it working as expected](./assets/images/screenshot2.png)
-
- [Final Product:Github repository](https://github.com/csancheze/Nxt-Movie-project/)
-
- [Final Product:Nxt movie](https://csancheze.github.io/Nxt-Movie-project/)
-
-[Document Presentation](https://onedrive.live.com/view.aspx?resid=124BCA53E6F59F19!82298&ithint=file%2cpptx&authkey=!AHVscf0fYc7J3lQ)
-
-Copyright (c) [2022] [Cesar San, Isaac Galvan and Ernest1589]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
